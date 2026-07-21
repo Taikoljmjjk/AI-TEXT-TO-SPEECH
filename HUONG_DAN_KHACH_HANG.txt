@@ -1,0 +1,21 @@
+TOOL CLONE GIONG TAI LE MMO - HUONG DAN SU DUNG
+================================================
+
+1. Mo file TOOL_CLONE_GIONG_TAI_LE_MMO.exe.
+2. Tai man hinh kich hoat, bam Sao chep ma may va gui ma may cho nha cung cap.
+3. Dan key TLV1 duoc cap, sau do bam KICH HOAT KEY.
+4. Vao Quan ly khoa API de them khoa tai khoan cua ban.
+5. Chon giong co san hoac vao tab Nhan ban giong de tao giong moi.
+6. Nhap noi dung, chon toc do va thu muc luu, sau do bam BAT DAU TAO AM THANH.
+7. Bat cong tac Xuat kem phu de SRT neu can file phu de.
+
+LIEN HE HO TRO
+- Dien thoai / Zalo: 0394342601
+- Cong dong: https://zalo.me/g/52xnntcopiemcbk3fvvh
+
+LUU Y
+- Ban EXE don: chi can mo file EXE, khong can thu muc _internal.
+- Neu nhan ban dang thu muc: giu nguyen thu muc _internal nam canh file EXE.
+- Key kich hoat, API, cai dat va am thanh duoc luu tai D:\TAI_LE_MMO\TOOL_CLONE_GIONG_TAI_LE_MMO; file tam tai D:\TAI_LE_MMO\Tam.
+- Khong chia se khoa API hoac key kich hoat cho nguoi khac.
+- Can ket noi Internet khi tai thu vien giong, clone va tao audio.

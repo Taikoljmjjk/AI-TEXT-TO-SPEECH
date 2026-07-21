@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+
+# Build and packaged applications
+build/
+build_*/
+dist/
+*.exe
+*.pkg
+
+# Local runtime/customer data
+.env
+.env.*
+DuLieu/
+AmThanh/
+GIỌNG DEMO/
+*.log
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

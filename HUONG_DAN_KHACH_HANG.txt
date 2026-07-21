@@ -1,0 +1,21 @@
+VOICE 11 LABS STUDIO TAILEMMO
+=============================
+
+Nhà phát triển: TAILEMMO
+Zalo hỗ trợ: 0394342601
+
+HƯỚNG DẪN NHANH
+1. Giải nén toàn bộ file ZIP ra một thư mục riêng.
+2. Mở VOICE_11_LABS_TAILEMMO.exe.
+3. Sao chép mã máy đang hiển thị và gửi cho nhà phát triển.
+4. Dán key kích hoạt được cấp vào cửa sổ kích hoạt.
+   Key được lưu mã hóa trên máy; các lần mở sau tool sẽ tự xác thực và vào thẳng.
+5. Vào tab Danh sách API, nhập mỗi ElevenLabs API key trên một dòng.
+6. Chọn giọng, nhập nội dung hoặc tải TXT/SRT rồi tạo audio.
+
+LƯU Ý
+- Không chạy trực tiếp ứng dụng khi vẫn còn nằm bên trong file ZIP.
+- Không chia sẻ API key ElevenLabs cho người khác.
+- File audio và SRT mặc định được lưu trong thư mục outputs.
+- Khi cần hỗ trợ, liên hệ Zalo 0394342601.
+- Gói Vĩnh viễn không hết hạn nhưng vẫn chỉ dùng trên đúng mã máy đã đăng ký.

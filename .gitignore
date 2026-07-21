@@ -1,0 +1,4 @@
+.venv/
+config/settings.json
+outputs/*
+!outputs/.gitkeep
